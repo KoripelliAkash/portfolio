@@ -18,8 +18,8 @@ export default function Navigation({ activeSection, setActiveSection }) {
             </button>
           </li>
         ))}
-        <div className="star"><a href="https://example.com">
-  <button>Rate</button>
+        <div className="star"><a href="https://github.com/KoripelliAkash/portfolio">
+  <button>Rate ⭐</button>
 </a></div>
       </ul>
       
